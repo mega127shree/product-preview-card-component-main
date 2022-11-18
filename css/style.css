@@ -31,12 +31,12 @@ img{
     margin:0 10px;
 }
 .content > h6{
-  font-family: 'Fraunces', serif;
+  font-family: 'Montserrat', serif;
     opacity: 0.6;
    letter-spacing: 6px;
 }
 .content .name{
-    font-family: 'Cardo', serif;
+    font-family: 'Fraunces', sans-serif;
     font-weight:bold;
     font-size:33px;
     margin:0;
